@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Anagrams</string>
+    <string name="enter_text">ENTER TEXT</string>
+    <string name="hint">Enter your text</string>
+    <string name="revers_word">Revers word</string>
+    <string name="your_result">Your result:</string>
+    <string name="space"> </string>
+</resources>
